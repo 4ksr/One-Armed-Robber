@@ -45,5 +45,5 @@ This cheat is designed for educational purposes only. Use it responsibly and res
 The author is not responsible for any misuse of this cheat. Use it at your own risk and for educational purposes only.
 
 ## Video
-[Click Me](Cheat.mp4)
+[Cheat.mp4](https://streamable.com/dhubjc)
 
