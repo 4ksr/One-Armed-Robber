@@ -11,8 +11,9 @@ This is a simple cheat for the game "One-Armed-Robber", implemented in C#. The p
 ## Instructions
 
 1. **Clone the Repository**
+```bash
 git clone https://github.com/4ksr/One-Armed-Robber.git
-
+```
 2. **Open the Project in Visual Studio**
 - Open Visual Studio.
 - File -> Open -> Project/Solution.
