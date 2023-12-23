@@ -20,7 +20,8 @@ git clone https://github.com/4ksr/One-Armed-Robber.git
 - Navigate to the cloned repository and open the project.
 
 3. **Build the Project**
-- Build the project to ensure there are no compilation errors.
+- Build
+- Build the project in Debug Mode to ensure there are no compilation errors.
 
 4. **Run the Cheat**
 - Run the cheat application.
